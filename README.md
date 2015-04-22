@@ -1,2 +1,1 @@
-### Training
-Docs and resources for journalism training
+Docs and resources for journalism training.
